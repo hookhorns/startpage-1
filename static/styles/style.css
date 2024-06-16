@@ -6,12 +6,12 @@
     --secondary-foreground-color: #121212;
     --tertiary-foreground-color: #1F1F1F;
     --normal-shadow: #00000040;
-    --selected-shadow: #BD93F940;
+    --selected-shadow: #0000040;
 }
 
 @font-face {
     font-family: "Font";
-    src: url("../fonts/hack.ttf");
+    src: url("../fonts/jet.ttf");
 }
 
 html {
